@@ -5,12 +5,18 @@
 <div align="center">
 
 <!-- ── ANIMATED HEADER WAVE ─────────────────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00C2FF&height=200&section=header&text=Vikas%20Naik&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=60&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00C2FF&height=180&section=header&animation=fadeIn" />
+
+<!-- ── H1 NAME HEADING ────────────────────────────────────────────── -->
+<h1>Hi 👋, I'm Vikas Naik</h1>
+<h3>Aspiring AI Engineer | Machine Learning • Deep Learning • Data Science | India 🇮🇳</h3>
 
 <br/>
 
-<!-- ── ANIMATED TYPING HEADLINE ──────────────────────────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=700&height=50&lines=🤖+Building+AI+Models+that+Matter;🔬+ML+%7C+Deep+Learning+%7C+LLM+Fine-tuning;🚀+Turning+Data+into+Intelligence;💡+Consistency+%3E+Talent+—+Always;🌍+Open+to+SDE+%2F+AI+%2F+ML+Roles" alt="Typing SVG" />
+<!-- ── ANIMATED TYPING SVG (FIXED URL) ───────────────────────────── -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=700&height=50&lines=🤖+Building+AI+Models+that+Matter;🔬+ML+%7C+Deep+Learning+%7C+LLM+Fine-tuning;🚀+Turning+Data+into+Intelligence;💡+Consistency+%3E+Talent+—+Always;🌍+Open+to+SDE+%2F+AI+%2F+ML+Roles" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
@@ -287,7 +293,7 @@ AI assistant for **document Q&A** with RAG
 ---
 
 <!-- ════════════════════════════════════════
-     2026 GOAL TRACKER — ENHANCED
+     2026 GOAL TRACKER
      ════════════════════════════════════════ -->
 
 <div align="center">
@@ -316,7 +322,7 @@ AI assistant for **document Q&A** with RAG
 ---
 
 <!-- ════════════════════════════════════════
-     CONNECT SECTION + QUOTE
+     CONNECT + QUOTE + FOOTER
      ════════════════════════════════════════ -->
 
 <div align="center">
